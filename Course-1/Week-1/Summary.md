@@ -1,4 +1,6 @@
-# In this lesson, you have learned the following information: 
+# What is Data Analytics
+
+## In this lesson, you have learned the following information: 
 
 A modern data ecosystem includes a network of interconnected and continually evolving entities that include: 
 
