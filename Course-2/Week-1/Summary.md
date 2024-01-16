@@ -1,4 +1,6 @@
-# In this lesson, you have learned: 
+# Introduction to Spreadsheets for Data Analysis
+
+In this lesson, you have learned: 
 
 - There are several spreadsheet applications available in the marketplace; the most commonly used and fully-featured spreadsheet application is Microsoft Excel. 
 
