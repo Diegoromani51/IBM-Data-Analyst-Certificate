@@ -25,7 +25,7 @@ In this exercise, you will learn how to work with tabs and start a new dashboard
 6. Select the four-panel template with 2x2 configuration. Click Create.
 7. Click the tab named Tab 1 and select Edit the title. Rename the tab to B - Customer.
 
-# Exercise 2: Differentm methods for creating dashboard visualizations
+# Exercise 2: Different methods for creating dashboard visualizations
 In this exercise, you will learn different methods for creating dashboard visualizations.
 
 ## Task A: Using an automatic method to create a visualization for panel 1
