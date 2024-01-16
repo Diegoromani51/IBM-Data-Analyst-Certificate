@@ -1,4 +1,4 @@
-# Summary and Highlights
+# Getting Started Using Spreadsheets
 
 In this lesson, you have learned: 
 
