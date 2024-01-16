@@ -26,7 +26,7 @@ The Three Fundamentals of Data Privacy:
 
 - Compliance
 
-## Cleaning Data
+# Cleaning Data
 
 In this lesson, you have learned the following information:
 
