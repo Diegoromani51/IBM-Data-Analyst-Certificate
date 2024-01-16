@@ -1,4 +1,4 @@
-# Peer-Graded Assignment: Final Assignment – Part 2
+# Peer-Graded Assignment: Final Assignment – Part 2: Analyze the Data
 
 ## Software Used in this Assignment
 The instruction videos in this course use the full Excel Desktop version as this has all the available product features, but for the hands-on labs we will be using the free ‘Excel for the web’ version as this is available to everyone.
